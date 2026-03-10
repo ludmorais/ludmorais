@@ -12,4 +12,5 @@
 - 🗣 Languages: `Portuguese` (native) and `English` (Intermediate/B2)
 
 ### Social Media
+Portfolio: https://ludmorais.github.io/
 LinkedIn: [https://www.linkedin.com/in/ludmillamorais/](https://www.linkedin.com/in/ludmillamorais/)
