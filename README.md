@@ -5,8 +5,8 @@
 - 📚 My hobby is reading. I love books and the world of literature.
 
 ### Current Stack
-- 💻 Frontend: `HTML5`, `CSS3`, `Javascript`, `React` (studies coming soon...) and `TypeScript` (studies coming soon...)
 - 🎨 Layout Design: `Figma` and `Adobe XD`
+- 💻 Frontend: `HTML5`, `CSS3`, `Javascript`, `React` (studies coming soon...) and `TypeScript` (studies coming soon...)
 - 📦️ Version Code Control: `Git & Github`
 - 🔧 Tools: `VS Code`, `Jira`
 - 🗣 Languages: `Portuguese` (native) and `English` (Intermediate/B2)
