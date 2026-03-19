@@ -1,7 +1,7 @@
 ### Hi, I'm Ludmilla Morais 👋🏼
 
 ### About Me
-- 🙋🏻‍♀️ I'm a Product Designer & UX/UI studying Front-End Development<b>OR</b> I'm a Product Designer Engineer ?! 🤪
+- 🙋🏻‍♀️ I'm a Product Designer & UX/UI studying Front-End Development <b>OR</b> I'm a Product Designer Engineer ?! 🤪
 - 📚 My hobby is reading. I love books and the world of literature.
 
 ### Current Stack
